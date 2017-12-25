@@ -1,2 +1,2 @@
 # eocpsource
-EOCP Source Code
+Exchange Online Control Panel
