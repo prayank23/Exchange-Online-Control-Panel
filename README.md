@@ -1,4 +1,4 @@
 # eocpsource
-EOCP Source Code
+Exchange Online Control Panel
 
-http://blog.cloudsentinelsstudio.com/exchange-online-control-panel/
+
