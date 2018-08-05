@@ -9,10 +9,12 @@ I have tried to create a tool which will include many methods to make the work e
 **Requirements:**
  
 .Net Framework 4.0
+
 Azure AD Module for PowerShell
+
 Microsoft Online Services Sign-In Assistant
 
-**Reference links:**
+_Reference links:_
 
 https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/exchange-online-powershell?view=exchange-ps
 
